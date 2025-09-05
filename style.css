@@ -1,1 +1,23 @@
+.h1 {
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+}
 
+.container {
+    background-color: aqua;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.cooltable {
+    margin-left: 179px;
+    margin-right: 50px;
+    vertical-align: center;
+}

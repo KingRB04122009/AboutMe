@@ -17,7 +17,16 @@
 }
 
 .cooltable {
-    margin-left: 179px;
-    margin-right: 50px;
-    vertical-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid green;
+}
+
+.image {
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
